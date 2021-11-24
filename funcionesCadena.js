@@ -31,7 +31,3 @@ document.write("<hr>");
 document.write("lengh con espaciosss: "+frase.length);
 document.write("<hr>");
 document.write("lengh sin espaciosss: "+fraseSinESpacio.length);
-
-const campo1 = document.getElementById("campo1");
-document.write(campo1);
-campo1.setAttribute("contentEditable","false");
