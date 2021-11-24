@@ -1,4 +1,5 @@
 
-const campo1 = document.getElementById("campo1");
+campo1 = document.getElementById("parrafo");
 document.write(campo1);
-campo1.setAttribute("contentEditable","false");
+
+
